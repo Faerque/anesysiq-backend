@@ -134,3 +134,6 @@ Thumbs.db
 
 # Migrations
 */migrations/
+
+# Data files
+data/
